@@ -1,1 +1,4 @@
-node_modules 
+echo node_modules/ > .gitignore
+echo build/ >> .gitignore
+echo .env >> .gitignore
+
